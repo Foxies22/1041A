@@ -1,4 +1,4 @@
-# 1041A
+# Coding problem 1041A
 
 There was an electronic store heist last night.
 
